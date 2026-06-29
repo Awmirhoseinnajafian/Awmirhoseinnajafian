@@ -1,196 +1,107 @@
 <div align="center">
 
-# 👋 Hi, I'm <strong>AWMIR</strong>
+<img src="images/banner.png" width="100%" alt="AWMIR Banner"/>
 
-### Software Engineer • Full-Stack Developer • AI Developer
+# 👋 Hi, I'm AWMIR
 
-<p>
-Building scalable software, AI-powered applications, games, and creative digital experiences.
-</p>
+### Software Engineer • AI Developer • Creative Technologist
 
 <p>
-<em>"Engineer by logic. Creator by passion."</em>
+Building modern software, AI systems, interactive experiences and creative digital products.
 </p>
-
-</div>
 
 <p align="center">
-  <a href="https://www.instagram.com/prod.awmir/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
-  <a href="https://t.me/Awmiirram">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-
-  <a href="mailto:awmirhoseinnajafian@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://instagram.com/prod.awmir">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://t.me/Awmiirram">
+<img src="https://img.shields.io/badge/Telegram-229ED9?style=flat-square&logo=telegram&logoColor=white"/>
+</a>
+<a href="mailto:awmirhoseinnajafian@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
+---
+
+## 🚀 About Me
+
+I'm a multidisciplinary Software Engineer passionate about transforming ideas into complete digital products.
+
+My work combines software engineering, artificial intelligence, game development, digital media, and music production.
+
+I enjoy building software that is scalable, maintainable, and visually polished.
 
 ---
 
-# 🚀 About Me
+## 💻 Core Expertise
 
-I'm a multidisciplinary software engineer passionate about turning ideas into real products.
-
-My background combines software engineering with creativity, allowing me to build complete digital experiences—from modern web applications and intelligent AI systems to interactive games, 3D content, professional video production, and music.
-
-I enjoy solving complex problems, designing scalable architectures, and continuously learning new technologies.
-
----
-
-# 💼 Areas of Expertise
-
-### 💻 Software Development
-
-* Full-Stack Web Development
-* Backend Engineering
-* REST API Development
-* Authentication & Security
-* Database Design
-* Software Architecture
-
-### 🤖 Artificial Intelligence
-
-* AI Applications
-* LLM Integration
-* AI Automation
-* Intelligent Assistants
-
-### 🎮 Game Development
-
-* Unreal Engine
-* Gameplay Systems
-* Interactive Experiences
-
-### 🎨 Creative Production
-
-* 3D Modeling & Rendering
-* Motion Graphics
-* Professional Video Editing
-* Music Production
-
----
-
-# 🛠 Tech Stack
-
-## Languages
-
-* Python
-* JavaScript
-* C#
-* HTML5
-* CSS3
-* SQL
-
-## Backend
-
-* Django
-* FastAPI
-* REST APIs
-
-## Frontend
-
-* Modern Responsive Web Development
-
-## Databases
-
-* PostgreSQL
-* SQLite
-
-## Creative Software
-
-* Unreal Engine
-* Blender
-* Adobe After Effects
-* Adobe Premiere Pro
-* DaVinci Resolve
-
-## Tools
-
-* Git
-* GitHub
-* Linux
-
----
-
-# 🎬 Creative Experience
-
-Beyond software engineering, I actively work in creative media production.
-
-My experience includes:
-
-* Professional video editing
-* Motion graphics
-* Music production
-* 3D content creation
-* Collaborating with YouTubers and digital content creators
-* Producing high-quality visual and audio content
-
----
-
-# 🎯 Current Focus
-
-* Software Engineering
-* Artificial Intelligence
-* Backend Systems
-* Open Source Projects
-* Unreal Engine Development
-* Modern Web Technologies
-
----
-
-# 📂 Featured Projects
-
-This profile showcases projects related to:
-
+* 🌐 Full-Stack Web Development
+* ⚙️ Backend Engineering
 * 🤖 Artificial Intelligence
-* 🌐 Full-Stack Applications
-* ⚙️ Backend APIs
-* 🎮 Unreal Engine
-* 🐍 Python Automation
-* 🎵 Creative Technology
+* 🎮 Unreal Engine Development
+* 🎨 Blender & 3D Design
+* 🎬 Professional Video Editing
+* 🎵 Music Production
 
 ---
 
-# 📖 Philosophy
+## 🛠 Tech Stack
 
-> Great software is more than code.
->
-> It's about solving problems, creating experiences, and delivering products that people genuinely enjoy using.
+**Languages**
+
+Python • JavaScript • C# • HTML • CSS • SQL
+
+**Backend**
+
+Django • FastAPI • REST APIs
+
+**Frontend**
+
+Modern Responsive Interfaces
+
+**Databases**
+
+PostgreSQL • SQLite
+
+**Creative**
+
+Unreal Engine • Blender • After Effects • Premiere Pro • DaVinci Resolve
+
+**Tools**
+
+Git • GitHub • Linux
 
 ---
 
-# 🌱 Always Learning
+## 🎬 Creative Journey
 
-I continuously improve my knowledge in:
+Besides software development, I collaborate with content creators on video production, motion graphics, and music.
 
-* Software Architecture
-* Distributed Systems
-* Cloud Technologies
+Technology and creativity are two parts of the same process for me.
+
+---
+
+## 📌 Current Focus
+
 * AI Engineering
-* Performance Optimization
-
----
-
-# 🤝 Let's Connect
-
-I'm always interested in collaborating on innovative projects involving:
-
-* Software Engineering
-* Artificial Intelligence
-* Game Development
-* Creative Technology
+* Software Architecture
+* Backend Systems
 * Open Source
+* Creative Technology
 
 ---
 
-<div align="center">
+## 💡 Philosophy
 
-### ⭐ Thanks for visiting my profile!
+> Simplicity is powerful.
+>
+> Great software is built with clean architecture, creativity, and attention to detail.
 
-**Building the future through code, creativity, and innovation.**
+---
+
+## 📫 Contact
+
+Always open to collaborations, freelance projects, startups, and open-source contributions.
 
 </div>
