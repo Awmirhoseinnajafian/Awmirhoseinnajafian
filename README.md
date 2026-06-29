@@ -6,102 +6,199 @@
 
 ### Software Engineer • AI Developer • Creative Technologist
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+Developer;Backend+Developer;Creative+Technologist;Building+Modern+Digital+Experiences" />
+
+<br>
+
 <p>
 Building modern software, AI systems, interactive experiences and creative digital products.
 </p>
 
-<p align="center">
+<br>
+
 <a href="https://instagram.com/prod.awmir">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
 <a href="https://t.me/Awmiirram">
-<img src="https://img.shields.io/badge/Telegram-229ED9?style=flat-square&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
+
 <a href="mailto:awmirhoseinnajafian@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=awmirhoseinnajafian@gmail.com">
+<img src="https://img.shields.io/badge/Open_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+I'm a multidisciplinary **Software Engineer** passionate about transforming ideas into scalable digital products.
+
+My work combines:
+
+- 💻 Software Engineering
+- 🤖 Artificial Intelligence
+- 🌐 Web Development
+- 🎮 Unreal Engine
+- 🎨 3D Design
+- 🎬 Professional Video Editing
+- 🎵 Music Production
+
+I enjoy creating software that is clean, scalable, maintainable and visually polished.
+
+---
+
+# 💻 Core Expertise
+
+- 🌐 Full Stack Development
+- ⚙️ Backend Engineering
+- 🤖 Artificial Intelligence
+- 🎮 Unreal Engine Development
+- 🎨 Blender & 3D Modeling
+- 🎬 Motion Graphics
+- 🎵 Music Production
+- ☁️ REST APIs
+- 🏗 Software Architecture
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,cs,html,css,sql"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,fastapi"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite"/>
+</p>
+
+### Creative
+
+<p>
+<img src="https://skillicons.dev/icons?i=blender"/>
+</p>
+
+**Also Experienced With**
+
+- Unreal Engine
+- After Effects
+- Premiere Pro
+- DaVinci Resolve
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 📈 GitHub Statistics
 
-I'm a multidisciplinary Software Engineer passionate about transforming ideas into complete digital products.
+<p align="center">
 
-My work combines software engineering, artificial intelligence, game development, digital media, and music production.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AWMIR&show_icons=true&theme=github_dark&hide_border=true"/>
 
-I enjoy building software that is scalable, maintainable, and visually polished.
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWMIR&layout=compact&theme=github_dark&hide_border=true"/>
 
----
-
-## 💻 Core Expertise
-
-* 🌐 Full-Stack Web Development
-* ⚙️ Backend Engineering
-* 🤖 Artificial Intelligence
-* 🎮 Unreal Engine Development
-* 🎨 Blender & 3D Design
-* 🎬 Professional Video Editing
-* 🎵 Music Production
+</p>
 
 ---
 
-## 🛠 Tech Stack
+# 🔥 GitHub Streak
 
-**Languages**
+<p align="center">
 
-Python • JavaScript • C# • HTML • CSS • SQL
+<img src="https://streak-stats.demolab.com?user=AWMIR&theme=github-dark-blue&hide_border=true"/>
 
-**Backend**
-
-Django • FastAPI • REST APIs
-
-**Frontend**
-
-Modern Responsive Interfaces
-
-**Databases**
-
-PostgreSQL • SQLite
-
-**Creative**
-
-Unreal Engine • Blender • After Effects • Premiere Pro • DaVinci Resolve
-
-**Tools**
-
-Git • GitHub • Linux
+</p>
 
 ---
 
-## 🎬 Creative Journey
+# 🎯 Current Focus
 
-Besides software development, I collaborate with content creators on video production, motion graphics, and music.
-
-Technology and creativity are two parts of the same process for me.
-
----
-
-## 📌 Current Focus
-
-* AI Engineering
-* Software Architecture
-* Backend Systems
-* Open Source
-* Creative Technology
+- Artificial Intelligence
+- Software Architecture
+- Backend Systems
+- Open Source
+- Creative Technology
+- Scalable Applications
 
 ---
 
-## 💡 Philosophy
+# 🎬 Creative Journey
 
-> Simplicity is powerful.
+Beyond software engineering, I collaborate with creators on:
+
+- Professional Video Editing
+- Motion Graphics
+- Music Production
+- Creative Technology
+
+I believe technology and creativity are two sides of the same process.
+
+---
+
+# 💡 Philosophy
+
+> Simplicity creates elegance.
 >
-> Great software is built with clean architecture, creativity, and attention to detail.
+> Great software is built through clean architecture, creativity and attention to detail.
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
-Always open to collaborations, freelance projects, startups, and open-source contributions.
+I'm always open to:
+
+- Freelance Projects
+- Startup Collaboration
+- AI Projects
+- Open Source Contributions
+- Creative Technology
+
+<div align="center">
+
+<a href="https://instagram.com/prod.awmir">
+<img src="https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://t.me/Awmiirram">
+<img src="https://img.shields.io/badge/Telegram-Message-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="mailto:awmirhoseinnajafian@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=AWMIR&style=for-the-badge&color=3B82F6"/>
+
+</p>
