@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/Banner.png" width="100%" style="border-radius:16px;" alt="Awmir Banner"/>
+<img src="Banner.png" width="100%" style="border-radius:16px;" alt="Awmir Banner"/>
 
 </div>
 
