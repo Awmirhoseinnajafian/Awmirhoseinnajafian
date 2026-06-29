@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="images/banner.png" width="100%" alt="AWMIR Banner"/>
+<img src="./images/banner.png" width="100%" style="border-radius:16px;" alt="AWMIR Banner"/>
+
+</div>
 
 # 👋 Hi, I'm AWMIR
 
