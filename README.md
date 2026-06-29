@@ -111,18 +111,6 @@ I enjoy creating software that is clean, scalable, maintainable and visually pol
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AWMIR&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWMIR&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -190,11 +178,3 @@ I'm always open to:
 </a>
 
 </div>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=AWMIR&style=for-the-badge&color=3B82F6"/>
-
-</p>
